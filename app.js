@@ -1,5 +1,5 @@
 // Add version parameter to force update
-const APP_VERSION = '1.0.0'; // Change this when you update
+const APP_VERSION = '1.1.0'; // Change this when you update
 
 // Your main application logic goes here
 let num = 0;
